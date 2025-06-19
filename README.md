@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee0249c0-d468-4bdc-9c05-8a6d7be1150f)![image](https://github.com/user-attachments/assets/b2acc687-e8c1-463b-b670-bb488a5d916b)![image](https://github.com/user-attachments/assets/72565e14-52ca-4140-a8ce-02496058ac93)# Dataset-Kemiskinan
+# Dataset-Kemiskinan
 # 📌 Deskripsi
 Dataset ini berisi data sosial dan ekonomi dari berbagai kabupaten/kota di Indonesia yang digunakan untuk melakukan klasifikasi tingkat kemiskinan. Data dikumpulkan dari sumber resmi seperti BPS (Badan Pusat Statistik), mencakup indikator-indikator pembangunan manusia, pendidikan, ekonomi, dan akses layanan dasar.
 # 📁 Struktur Dataset
